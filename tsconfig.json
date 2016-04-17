@@ -1,0 +1,15 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "outDir": "./built/",
+        "sourceMap": true,
+        "target": "es5",
+        "charset": "utf8",
+        "pretty": true
+    },
+    "exclude": [
+        "node_modules",
+        "wwwroot"
+    ]
+}
